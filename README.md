@@ -44,15 +44,3 @@
 </div>
 
 ### 
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=lincolnbrito&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=true&locale=en&order=1" height="160" alt="stats graph"  />
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lincolnbrito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
-</div> 
- <div align="center"> 
- <img src="https://streak-stats.demolab.com?user=lincolnbrito&locale=en&mode=yearly&theme=dracula&hide_border=true&border_radius=5&order=3" width="540" alt="streak graph"  /><br/>
- 
- <img src="https://github-profile-trophy.vercel.app/?username=lincolnbrito&theme=onedark&no-frame=true&no-bg=false&row=2&column=5&margin-w=6&margin-h=6" />
-
-</div>
