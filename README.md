@@ -1,6 +1,8 @@
 ## Hey 👋
 <div align="center"> 
- I'm Lincoln! A frontend, backend and mobile developer.
+
+ ### I'm Lincoln! A frontend, backend and mobile developer.
+
 </div>
 
 ###
