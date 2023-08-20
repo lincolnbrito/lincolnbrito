@@ -43,13 +43,12 @@
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=lincolnbrito&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lincolnbrito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&order=2" height="160" alt="languages graph"  />  
-  <img src="https://streak-stats.demolab.com?user=lincolnbrito&locale=en&mode=weekly&theme=dracula&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=lincolnbrito&locale=en&mode=yearly&theme=dracula&border_radius=5&order=3" height="160" alt="streak graph"  />
+ <img src="https://github-contributor-stats.vercel.app/api?username=lincolnbrito&limit=4&theme=dracula&combine_all_yearly_contributions=true" width="400" align="left" />
+ <img src="https://github-profile-trophy.vercel.app/?username=lincolnbrito&theme=dracula&no-frame=false&no-bg=false&row=4&column=5&margin-w=6" />
+
 </div>
 
 ###
-<div align="center"> 
-<img src="https://github-contributor-stats.vercel.app/api?username=lincolnbrito&limit=10&theme=dracula&combine_all_yearly_contributions=true" width="400" align="left" />
-<img src="https://github-profile-trophy.vercel.app/?username=lincolnbrito&theme=dracula&no-frame=false&no-bg=false&row=4&column=5" />
-</div>
 
-<br clear="both">
+
